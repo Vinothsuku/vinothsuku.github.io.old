@@ -92,7 +92,7 @@ key: value
 
 ## Tweetcards
 
-{% twitter https://twitter.com/vinothadarsh %}
+
 
 
 ## Footnotes
